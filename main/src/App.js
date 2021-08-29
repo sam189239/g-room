@@ -4,7 +4,6 @@ function App() {
   return (
     <div className="App">
       <Drawer/>
-      <h1>Hello!</h1>
     </div>
   );
 }
