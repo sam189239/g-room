@@ -1,9 +1,10 @@
-# g-room
+# groomba
 
 React:
 
 npx create-react-app ./
 yarn start //or// npm start
+npm install @material-ui/core @material-ui/icons
 
 Local tunnel:
 
