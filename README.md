@@ -1,5 +1,7 @@
 # groomba
 
+Project not completed yet.
+
 React:
 
 npx create-react-app ./
